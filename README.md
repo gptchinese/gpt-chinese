@@ -16,11 +16,11 @@
 
 ## 推荐的国内 ChatGPT中文版镜像网站
 
-- [https://www.yixiaai.com/](https://www.yixiaai.com/) - **ChatGPT中文版**，运营快2年，支持 GPT4、4o 以及 o1，支持 AI绘画，扫码就能用~
-- [https://chat.lify.vip/](https://chat.lify.vip/) - **ChatGPT镜像网站**，运营快2年，支持 GPT4、4o 以及 o1，AI文件、AI PPT、AI助手、AI插件功能、思维导图~
-- [https://guide1.lanjing.ai/](https://guide1.lanjing.ai/) - **ChatGPT镜像网站**，运营1年多，支持 GPT4、4o，支持AI绘画（Midjourney和Dall·E）
-- [https://ai.lansejingyu.com/](https://ai.lansejingyu.com/) - ChatGPT-4 镜像，支持 GPT4、4o，简单便捷~
-- [https://lanjing.ai/](https://lanjing.ai/) - **免费ChatGPT**，支持 GPT4、4o 支持 MJ 绘画
+- [www.yixiaai.com](https://www.yixiaai.com/) - **ChatGPT中文版**，运营快2年，支持 GPT4、4o 以及 o1，支持 AI绘画，扫码就能用~
+- [chat.lify.vip](https://chat.lify.vip/) - **ChatGPT镜像网站**，运营快2年，支持 GPT4、4o 以及 o1，AI文件、AI PPT、AI助手、AI插件功能、思维导图~
+- [guide1.lanjing.ai](https://guide1.lanjing.ai/) - **ChatGPT镜像网站**，运营1年多，支持 GPT4、4o，支持AI绘画（Midjourney和Dall·E）
+- [ai.lansejingyu.com](https://ai.lansejingyu.com/) - ChatGPT-4 镜像，支持 GPT4、4o，简单便捷~
+- [lanjing.ai](https://lanjing.ai/) - **免费ChatGPT**，支持 GPT4、4o 支持 MJ 绘画
 
 ## ChatGPT官网与 ChatGPT中文版的区别
 | 对比项 | ChatGPT官网 | ChatGPT中文版（镜像网站）|
@@ -37,7 +37,7 @@
 ## 如何快速开始使用 ChatGPT中文版
 
 ### Step1：选择 ChatGPT中文版
-&nbsp;&nbsp;&nbsp;&nbsp;选择上方的网址，如：[https://chat.lify.vip/](https://chat.lify.vip/)。 <br />
+&nbsp;&nbsp;&nbsp;&nbsp;选择上方的网址，如：[chat.lify.vip](https://chat.lify.vip/)。 <br />
 ### Step2：扫码登录
 &nbsp;&nbsp;&nbsp;&nbsp;点击左上角“logo”，点击登录（也可以直接提问）<br />
 &nbsp;&nbsp;&nbsp;&nbsp;弹出二维码后，使用微信扫码就可以了~~
