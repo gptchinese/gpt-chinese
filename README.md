@@ -1,14 +1,14 @@
 # ChatGPT中文版：国内无限使用4.0、GPT-4o 和 o1 【2025年5月更新】
 
-> 更新日期：2025/05/10     
+> 更新日期：2025/05/21     
 
-**国内直接能用的 [ChatGPT中文版](https://chat.yixiaai.com)！不用翻墙，支持ChatGPT-4，无限使用GPT-4o和o1** 
+**国内直接能用的 [ChatGPT中文版](https://chat.lanjing.pro)！不用翻墙，支持ChatGPT-4，无限使用GPT-4o和o1** 
 
-我们为大家整理提供了一些国内可用的 [**ChatGPT中文版**](https://chat.lanjing.ai)，方便国内用户使用ChatGPT~
+我们为大家整理提供了一些国内可用的 [**ChatGPT中文版**](https://xsimplechat.com)，方便国内用户使用ChatGPT~
 
 ## ChatGPT中文版 介绍：
 
-**ChatGPT中文版**是基于OpenAI的ChatGPT模型开发的，国内能直接使用的中文网站，专为方便国内用户使用的。<br />
+[**ChatGPT中文版**](https://chat.lanjing.pro) 是基于OpenAI的ChatGPT模型开发的，国内能直接使用的中文网站，专为方便国内用户使用的。   
 
 - **无需翻墙**：国内就能直接用，不需要再购买任何其他工具。
 - **中文优化**：提供中文界面，更好的中文语言及内容支持。
@@ -18,11 +18,11 @@
 
 ## 推荐的国内 ChatGPT中文版镜像网站
 
-- [chat.yixiaai.com](https://chat.yixiaai.com/) - **ChatGPT中文版**，运营快2年，支持 GPT4、4o 以及 o1，支持 AI绘画，扫码就能用~
-- [chat.lify.vip](https://www.yixiaai.com/) - **ChatGPT镜像网站**，运营快2年，支持 GPT4、4o 以及 o1，AI文件、AI PPT、AI助手、AI插件功能、思维导图~
-- [guide1.lanjing.ai](https://guide1.lanjing.ai/) - **ChatGPT镜像网站**，运营1年多，支持 GPT4、4o，支持AI绘画（Midjourney和Dall·E）
+- [chat.yixiaai.com](https://chat.lanjing.pro/) - **ChatGPT中文版**，运营快2年，支持 GPT4、4o 以及 o1，支持 AI绘画，扫码就能用~
+- [chat.lify.vip](https://xsimplechat.com/) - **ChatGPT镜像网站**，运营快2年，支持 GPT4、4o 以及 o1，AI文件、AI PPT、AI助手、AI插件功能、思维导图~
+- [guide1.lanjing.ai](https://chat.yixiaai.com/) - **ChatGPT镜像网站**，运营1年多，支持 GPT4、4o，支持AI绘画（Midjourney和Dall·E）
 - [ai.lansejingyu.com](https://ai.lansejingyu.com/) - ChatGPT-4 镜像，支持 GPT4、4o，简单便捷~
-- [lanjing.ai](https://lanjing.ai/) - **免费ChatGPT**，支持 GPT4、4o 支持 MJ 绘画
+- [lanjing.ai](https://lanjing.pro/) - **免费ChatGPT**，支持 GPT4、4o 支持 MJ 绘画
 
 ## ChatGPT官网与 ChatGPT中文版的区别
 | 对比项 | ChatGPT官网 | ChatGPT中文版（镜像网站）|
@@ -39,9 +39,9 @@
 ## 如何快速开始使用 ChatGPT中文版
 
 ### Step1：选择 ChatGPT中文版
-&nbsp;&nbsp;&nbsp;&nbsp;选择上方的网址，如：[chat.yixiaai.com](https://chat.yixiaai.com/)。 <br />
+&nbsp;&nbsp;&nbsp;&nbsp;选择上方的网址，如：[chat.lanjing.pro](https://chat.lanjing.pro/)。    
 ### Step2：扫码登录
-&nbsp;&nbsp;&nbsp;&nbsp;点击左上角“logo”，点击登录（也可以直接提问）<br />
+&nbsp;&nbsp;&nbsp;&nbsp;点击左上角“logo”，点击登录（也可以直接提问）   
 &nbsp;&nbsp;&nbsp;&nbsp;弹出二维码后，使用微信扫码就可以了~~
 ### Step3：选择模型（切换模型）
 &nbsp;&nbsp;&nbsp;&nbsp;选择模型，如4o或4o mini。同一对话窗内，也可随时切换模型
